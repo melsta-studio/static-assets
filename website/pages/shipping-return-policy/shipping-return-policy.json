@@ -5,8 +5,8 @@
       "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/shipping-return-policy/icons/calendar.svg",
       "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
     },
-    "description": "Shipping and return policy for Melmua's services",
-    "intro": "Melmua Inc. (\"we,\" \"our,\" or \"us\") is committed to providing transparent shipping and return policies. This policy outlines our shipping methods, delivery times, and return procedures.",
+    "description": "Shipping and return policy for Melsta's services",
+    "intro": "Melsta Inc. (\"we,\" \"our,\" or \"us\") is committed to providing transparent shipping and return policies. This policy outlines our shipping methods, delivery times, and return procedures.",
     "sections": [
       {
         "id": 1,
@@ -106,5 +106,5 @@
         }
       }
     ],
-    "footer": "By placing an order with Melmua, you agree to our shipping and return policies. Thank you for choosing Melmua Inc."
+    "footer": "By placing an order with Melsta, you agree to our shipping and return policies. Thank you for choosing Melsta Inc."
   } 
