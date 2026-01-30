@@ -5,8 +5,8 @@
     "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/calendar.svg",
     "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
   },
-  "description": "Terms and conditions for using Melmua's services",
-  "intro": "Welcome to Melmua Inc. (\"we,\" \"our,\" or \"us\"). These Terms and Conditions govern your use of our website, mobile application, and services. By accessing or using our services, you agree to be bound by these terms. If you disagree with any part of these terms, you may not access our services.",
+  "description": "Terms and conditions for using Melsta's services",
+  "intro": "Welcome to Melsta Inc. (\"we,\" \"our,\" or \"us\"). These Terms and Conditions govern your use of our website, mobile application, and services. By accessing or using our services, you agree to be bound by these terms. If you disagree with any part of these terms, you may not access our services.",
   "sections": [
     {
       "id": 1,
@@ -36,7 +36,7 @@
     {
       "id": 2,
       "title": "Service Description",
-      "description": "Melmua provides beauty and skincare services, including:",
+      "description": "Melsta provides beauty and skincare services, including:",
       "items": [
         {
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/beauty.svg",
@@ -222,7 +222,7 @@
     {
       "id": 10,
       "title": "Governing Law",
-      "description": "These terms are governed by the laws of the jurisdiction where Melmua Inc. is incorporated.",
+      "description": "These terms are governed by the laws of the jurisdiction where Melsta Inc. is incorporated.",
       "content": "Any disputes arising from these terms or your use of our services will be resolved in the courts of our jurisdiction, unless otherwise required by applicable law.",
       "highlight": {
         "title": "Dispute Resolution",
@@ -240,5 +240,5 @@
       }
     }
   ],
-  "footer": "By using Melmua's services, you acknowledge that you have read, understood, and agree to these Terms and Conditions. Thank you for choosing Melmua Inc."
+  "footer": "By using Melsta's services, you acknowledge that you have read, understood, and agree to these Terms and Conditions. Thank you for choosing Melsta Inc."
 } 

@@ -5,8 +5,8 @@
       "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/calendar.svg",
       "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
     },
-    "description": "Privacy policy for Melmua's services",
-    "intro": "Melmua Inc. (\"we,\" \"our,\" or \"us\") values your privacy. This Privacy Policy explains how we collect, use, and share personal information about you when you use our website and services. It also outlines your rights under the General Data Protection Regulation (GDPR) and other applicable laws.",
+    "description": "Privacy policy for Melsta's services",
+    "intro": "Melsta Inc. (\"we,\" \"our,\" or \"us\") values your privacy. This Privacy Policy explains how we collect, use, and share personal information about you when you use our website and services. It also outlines your rights under the General Data Protection Regulation (GDPR) and other applicable laws.",
     "sections": [
       {
         "id": 1,
@@ -171,5 +171,5 @@
         }
       }
     ],
-    "footer": "By using our services, you agree to this Privacy Policy. Thank you for trusting Melmua Inc."
+    "footer": "By using our services, you agree to this Privacy Policy. Thank you for trusting Melsta Inc."
   } 

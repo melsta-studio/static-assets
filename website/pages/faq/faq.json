@@ -14,7 +14,7 @@
     "category": "Certification"
   },
   {
-    "question": "Can I purchase makeup products on Melmua?",
+    "question": "Can I purchase makeup products on Melsta?",
     "answer": "Yes, we have an online store where you can shop for a variety of makeup products curated by our experts.",
     "iconUrl": "https://raw.githubusercontent.com/melmua/static-assets/refs/heads/main/website/pages/faq/icons/shopping-bag.svg",
     "iconAlt": "Shopping bag icon for products",
@@ -50,7 +50,7 @@
   },
   {
     "question": "How does the loyalty program work?",
-    "answer": "Earn points for every booking you make through Melmua. These points can be redeemed for discounts on future services, free trials, or exclusive offers from our partner brands.",
+    "answer": "Earn points for every booking you make through Melsta. These points can be redeemed for discounts on future services, free trials, or exclusive offers from our partner brands.",
     "iconUrl": "https://raw.githubusercontent.com/melmua/static-assets/refs/heads/main/website/pages/faq/icons/loyalty.svg",
     "iconAlt": "Loyalty program icon",
     "category": "Rewards"
@@ -63,8 +63,8 @@
     "category": "Services"
   },
   {
-    "question": "How do I refer friends to Melmua?",
-    "answer": "Use our referral system to invite friends to join Melmua. Both you and your friend will receive credits or free trials when they make their first booking.",
+    "question": "How do I refer friends to Melsta?",
+    "answer": "Use our referral system to invite friends to join Melsta. Both you and your friend will receive credits or free trials when they make their first booking.",
     "iconUrl": "https://raw.githubusercontent.com/melmua/static-assets/refs/heads/main/website/pages/faq/icons/referral.svg",
     "iconAlt": "Referral icon",
     "category": "Rewards"
