@@ -1,129 +1,128 @@
 [
-    {
-      "id": 1,
-      "quote": "I found my go to MUA, got certified, and discovered must-have products—all in one app!",
-      "author": "Sarah M.",
-      "role": "Makeup Enthusiast",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "booking"
-    },
-    {
-      "id": 2,
-      "quote": "From learning to glam to booking pros, this app is every beauty lover's dream hub!",
-      "author": "Jamee K.",
-      "role": "Professional MUA",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "consultations"
-    },
-    {
-      "id": 3,
-      "quote": "The makeup booking platform is amazing! I've never had such a seamless experience booking appointments.",
-      "author": "Emily Chen",
-      "role": "Regular Client",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user2.avif",
-      "service": "booking"
-    },
-    {
-      "id": 4,
-      "quote": "I found my go-to MUA, got my dreamy bridal makeup done! The attention to detail was incredible.",
-      "author": "Priya Sharma",
-      "role": "Bride",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "booking"
-    },
-    {
-      "id": 5,
-      "quote": "As a professional MUA, I love how this platform connects me with clients who appreciate my style.",
-      "author": "Lisa Thompson",
-      "role": "Makeup Artist",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user2.avif",
-      "service": "consultations"
-    },
-    {
-      "id": 6,
-      "quote": "The reviews and ratings system is so helpful. I always know I'm booking with the best artists!",
-      "author": "Rachel Kim",
-      "role": "Regular Client",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "booking"
-    },
-    {
-      "id": 7,
-      "quote": "My stylist completely transformed my wardrobe! I now feel confident and stylish every single day.",
-      "author": "Sarah M.",
-      "role": "Marketing Executive",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user2.avif",
-      "service": "styling"
-    },
-    {
-      "id": 8,
-      "quote": "The products I discovered through Melsta are game-changers! My skin has never looked better.",
-      "author": "Lisa Chen",
-      "role": "Beauty Enthusiast",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "products"
-    },
-    {
-      "id": 9,
-      "quote": "The beauty consultation helped me find the perfect products for my skin type.",
-      "author": "Amanda Wilson",
-      "role": "Entrepreneur",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user2.avif",
-      "service": "consultations"
-    },
-    {
-      "id": 10,
-      "quote": "My beauty consultation was incredibly helpful. I learned techniques I never knew existed.",
-      "author": "Maria Rodriguez",
-      "role": "Beauty Enthusiast",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "consultations"
-    },
-    {
-      "id": 11,
-      "quote": "The styling service exceeded my expectations. I finally have a wardrobe that reflects my personality.",
-      "author": "Amanda Wilson",
-      "role": "Entrepreneur",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user2.avif",
-      "service": "styling"
-    },
-    {
-      "id": 12,
-      "quote": "Working with a personal stylist was the best investment I've made. My confidence has skyrocketed!",
-      "author": "Rachel Green",
-      "role": "Teacher",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "styling"
-    },
-    {
-      "id": 13,
-      "quote": "Amazing quality products at great prices. The recommendations are spot-on!",
-      "author": "Maria Rodriguez",
-      "role": "Student",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user2.avif",
-      "service": "products"
-    },
-    {
-      "id": 14,
-      "quote": "Found my holy grail products through Melsta's curated selection. Quality is exceptional!",
-      "author": "Emma Davis",
-      "role": "Model",
-      "rating": 5,
-      "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/user1.avif",
-      "service": "products"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "quote": "From my first trial to the final look, booking through MelMua felt effortless. My artist understood exactly the kind of soft glam I wanted.",
+    "author": "Aanya Mehra",
+    "role": "Makeup Enthusiast",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar1.jpeg",
+    "service": "booking"
+  },
+  {
+    "id": 2,
+    "quote": "The consultation feature is genuinely useful. I got clear shade-match advice, pro product recommendations, and a routine that actually works for my clients.",
+    "author": "Ishita Kapoor",
+    "role": "Professional MUA",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar2.jpeg",
+    "service": "consultations"
+  },
+  {
+    "id": 3,
+    "quote": "I booked an appointment in minutes and every update was smooth and professional. It took the usual stress out of finding the right artist.",
+    "author": "Rhea Nair",
+    "role": "Regular Client",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar3.jpeg",
+    "service": "booking"
+  },
+  {
+    "id": 4,
+    "quote": "My bridal makeup looked elegant, lasted through every ceremony, and still felt like me. I could not have asked for a better experience.",
+    "author": "Kavya Malhotra",
+    "role": "Bride",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar4.jpeg",
+    "service": "booking"
+  },
+  {
+    "id": 5,
+    "quote": "As a working MUA, this platform brings me serious clients who value quality, creativity, and professionalism. It has been a great fit for my business.",
+    "author": "Sneha Bedi",
+    "role": "Makeup Artist",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar5.jpeg",
+    "service": "consultations"
+  },
+  {
+    "id": 6,
+    "quote": "The reviews helped me book with total confidence. Every detail felt transparent, and the artist I chose absolutely delivered.",
+    "author": "Nandini Rao",
+    "role": "Regular Client",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar6.jpeg",
+    "service": "booking"
+  },
+  {
+    "id": 7,
+    "quote": "The styling support completely refreshed my look without making it feel forced. I feel more confident stepping into work and events now.",
+    "author": "Simran Arora",
+    "role": "Marketing Executive",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar7.jpeg",
+    "service": "styling"
+  },
+  {
+    "id": 8,
+    "quote": "I discovered products here that actually suit Indian skin tones and textures. My base looks smoother, fresher, and far more natural now.",
+    "author": "Meher Sethi",
+    "role": "Beauty Enthusiast",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar8.jpeg",
+    "service": "products"
+  },
+  {
+    "id": 9,
+    "quote": "The beauty consultation was thoughtful and practical. Instead of generic advice, I got recommendations that matched my skin, budget, and routine.",
+    "author": "Anika Deshpande",
+    "role": "Entrepreneur",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar9.jpeg",
+    "service": "consultations"
+  },
+  {
+    "id": 10,
+    "quote": "I walked away from my consultation with techniques I still use every day. It felt like learning from a friend who just happens to be an expert.",
+    "author": "Tanvi Khanna",
+    "role": "Beauty Enthusiast",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar10.jpeg",
+    "service": "consultations"
+  },
+  {
+    "id": 11,
+    "quote": "The styling service helped me build a wardrobe that finally feels polished and personal. Getting dressed is so much easier now.",
+    "author": "Pooja Bansal",
+    "role": "Entrepreneur",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar11.jpeg",
+    "service": "styling"
+  },
+  {
+    "id": 12,
+    "quote": "Working with a stylist through the platform was one of the best decisions I have made this year. I feel put-together without overthinking every outfit.",
+    "author": "Diya Iyer",
+    "role": "Teacher",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar12.jpeg",
+    "service": "styling"
+  },
+  {
+    "id": 13,
+    "quote": "The product recommendations were spot-on and the quality exceeded my expectations. I ended up repurchasing almost everything.",
+    "author": "Ritika Verma",
+    "role": "Student",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar13.jpeg",
+    "service": "products"
+  },
+  {
+    "id": 14,
+    "quote": "I found standout products I would never have discovered on my own. The curation feels premium, trustworthy, and genuinely useful.",
+    "author": "Shreya Kulkarni",
+    "role": "Model",
+    "rating": 5,
+    "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar14.jpeg",
+    "service": "products"
+  }
+]
