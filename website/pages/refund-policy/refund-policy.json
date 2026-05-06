@@ -1,0 +1,110 @@
+{
+  "title": "Refund Policy",
+  "lastUpdated": {
+    "date": "May 6, 2026",
+    "icon": "",
+    "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
+  },
+  "description": "Melsta Studio Refund Policy",
+  "intro": "At Melsta Studio, we want every experience to be exceptional. This Refund Policy outlines the conditions under which refunds are issued for bookings made through our platform.",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Cancellation & Refund Eligibility",
+      "description": "Whether you are eligible for a refund depends on when you cancel and the circumstances of your booking.",
+      "items": [
+        {
+          "icon": "",
+          "icon_alt": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Cancellation 24+ Hours in Advance",
+          "description": "Bookings cancelled at least 24 hours before the scheduled appointment are eligible for a full refund to the original payment method."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Cancellation Within 24 Hours",
+          "description": "Cancellations made less than 24 hours before the appointment are not eligible for a refund, as the artist has reserved time specifically for your session."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Artist-Initiated Cancellation",
+          "description": "If your booking is cancelled by the artist or by Melsta Studio, you will receive a full refund regardless of the notice period."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Service Quality Concerns",
+          "description": "If you believe a completed service did not meet the agreed standard, please contact us within 48 hours of the appointment. We review each case individually and may offer a partial refund or credit at our discretion."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Non-Refundable Scenarios",
+      "description": "The following situations are not eligible for a refund.",
+      "items": [
+        {
+          "icon": "",
+          "icon_alt": "M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Completed Services",
+          "description": "Once a service has been fully rendered by the artist, it is non-refundable unless a quality dispute is raised within 48 hours."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "No-Shows",
+          "description": "If you do not attend your scheduled appointment without prior cancellation, the booking is non-refundable."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Late Arrivals",
+          "description": "Arriving significantly late may result in a shortened or cancelled session at the artist's discretion. Refunds will not be issued for time lost due to client lateness."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Change of Mind",
+          "description": "Refunds are not issued for cancellations made within 24 hours of the appointment due to a change of preference or plans."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Refund Process & Timeline",
+      "description": "Once a refund is approved, here is what to expect.",
+      "items": [
+        {
+          "icon": "",
+          "icon_alt": "M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Processing Time",
+          "description": "Approved refunds are processed within 5–7 business days. The time for the funds to appear in your account depends on your bank or payment provider."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z",
+          "title": "Original Payment Method",
+          "description": "Refunds are credited back to the original payment method used at the time of booking. We are unable to process refunds to a different card or account."
+        },
+        {
+          "icon": "",
+          "icon_alt": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Confirmation",
+          "description": "You will receive an email confirmation once your refund has been approved and initiated."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "How to Request a Refund",
+      "description": "To request a refund, please reach out to our support team with your booking details. We aim to respond to all refund requests within 2 business days.",
+      "contactLink": {
+        "text": "Contact our support team",
+        "url": "/contact",
+        "email": "support@melsta.studio"
+      }
+    }
+  ],
+  "footer": "This Refund Policy is subject to change. Any updates will be reflected on this page with a revised date. For questions, contact us at support@melsta.studio."
+}
