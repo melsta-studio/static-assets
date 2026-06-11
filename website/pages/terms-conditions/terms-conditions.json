@@ -57,6 +57,8 @@
           "description": "Melsta Studio facilitates booking management, customer support, payment collection, dispute handling, cancellations, and service coordination between customers and artists."
         },
         {
+          "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/calendar.svg",
+          "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z",
           "title": "Booking Confirmation",
           "description": "A booking request becomes confirmed only after artist acceptance, successful payment processing where applicable, and confirmation through the Melsta Studio platform."
         }
