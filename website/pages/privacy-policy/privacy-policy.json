@@ -145,7 +145,7 @@
         ],
         "highlight": {
           "title": "How to Exercise Your Right to Be Forgotten",
-          "description": "To request the deletion of your personal data, please log in to the app, go to https://app.melsta.studio/delete-account. Once you submit the request, your account and personal data will be scheduled for deletion within 30 days. If you log back into your account during this time, your deletion request will be canceled."
+          "description": "To request the deletion of your personal data, please log in to the app, go to https://app.melsta.studio/settings/account, and click on \"Delete Account\". Once you submit the request, your account and personal data will be scheduled for deletion within 30 days. If you log back into your account during this time, your deletion request will be canceled. You can also reach out to us at https://melsta.studio/contact for deletion requests or any other queries regarding your data privacy."
         }
       },
       {
