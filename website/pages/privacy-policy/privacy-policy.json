@@ -32,8 +32,8 @@
             "description": "Device information, IP address, browser type, operating system, and application usage information."
           },
           {
-            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/user.svg",
-            "icon_alt": "",
+            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/calendar.svg",
+            "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z",
             "title": "Booking Information",
             "description": "Appointment details, event information, service preferences, booking addresses, and communications related to bookings made through the platform."
           }
@@ -82,8 +82,8 @@
             "description": "For hosting, analytics, payment processing, customer support, communication services, and operational support."
           },
           {
-            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/provider.svg",
-            "icon_alt": "",
+            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/service.svg",
+            "icon_alt": "M13 10V3L4 14h7v7l9-11h-7z",
             "title": "Booking Fulfillment",
             "description": "Relevant booking details may be shared with artists and service partners solely for fulfilling customer bookings and providing requested services."
           },
@@ -145,7 +145,7 @@
         ],
         "highlight": {
           "title": "How to Exercise Your Right to Be Forgotten",
-          "description": "To request the deletion of your personal data, please log in to the app, go to https://app.melsta.studio/delete-account. Once you submit the request, your account and personal data will be scheduled for deletion within 30 days. If you log back into your account during this time, your deletion request will be canceled."
+          "description": "To request the deletion of your personal data, please log in to the app, go to https://app.melsta.studio/settings/account, and click on \"Delete Account\". Once you submit the request, your account and personal data will be scheduled for deletion within 30 days. If you log back into your account during this time, your deletion request will be canceled. You can also reach out to us at https://melsta.studio/contact for deletion requests or any other queries regarding your data privacy."
         }
       },
       {
@@ -155,13 +155,13 @@
         "items": [
           {
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/user.svg",
-            "icon_alt": "",
+            "icon_alt": "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z",
             "title": "Verification Information",
             "description": "Identity documents, address information, profile information, photographs, and other onboarding information."
           },
           {
-            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/security.svg",
-            "icon_alt": "",
+            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/payment.svg",
+            "icon_alt": "M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z",
             "title": "Payout Information",
             "description": "Bank account and payment information required for processing artist payouts."
           }
