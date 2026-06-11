@@ -5,8 +5,8 @@
       "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/calendar.svg",
       "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
     },
-    "description": "Privacy policy for Melsta's services",
-    "intro": "Melsta Inc. (\"we,\" \"our,\" or \"us\") values your privacy. This Privacy Policy explains how we collect, use, and share personal information about you when you use our website and services. It also outlines your rights under the General Data Protection Regulation (GDPR) and other applicable laws.",
+    "description": "Privacy policy for Melsta Studio's services",
+    "intro": "Melsta Studio (\"we\", \"our\", or \"us\") values your privacy. This Privacy Policy explains how we collect, use, store, and share personal information when you use our website, mobile applications, and beauty service booking platform. It also describes your privacy rights and choices regarding your personal information.",
     "sections": [
       {
         "id": 1,
@@ -17,19 +17,25 @@
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/user.svg",
             "icon_alt": "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z",
             "title": "Account Information",
-            "description": "Name, email address, and account preferences when you register."
+            "description": "Name, phone number, email address, account details, and profile information provided during registration or booking."
           },
           {
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/chart.svg",
             "icon_alt": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z",
             "title": "Usage Data",
-            "description": "Information about your interactions with our services, such as typing performance and progress."
+            "description": "Information about your interactions with the platform, including bookings, service preferences, search activity, support requests, and usage patterns."
           },
           {
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/computer.svg",
             "icon_alt": "M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
             "title": "Technical Data",
-            "description": "Device information, IP address, and browser type."
+            "description": "Device information, IP address, browser type, operating system, and application usage information."
+          },
+          {
+            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/user.svg",
+            "icon_alt": "",
+            "title": "Booking Information",
+            "description": "Appointment details, event information, service preferences, booking addresses, and communications related to bookings made through the platform."
           }
         ]
       },
@@ -42,19 +48,19 @@
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/service.svg",
             "icon_alt": "M13 10V3L4 14h7v7l9-11h-7z",
             "title": "Service Provision",
-            "description": "Provide, maintain, and improve our services."
+            "description": "Provide, manage, coordinate, and improve beauty service bookings, artist matching, customer support, and platform operations."
           },
           {
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/personalize.svg",
             "icon_alt": "M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4",
             "title": "Personalization",
-            "description": "Personalize your learning experience."
+            "description": "Personalize artist recommendations, service suggestions, booking experiences, and platform features."
           },
           {
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/communication.svg",
             "icon_alt": "M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
             "title": "Communication",
-            "description": "Communicate with you about your account, updates, and marketing (if you've opted in)."
+            "description": "Communicate regarding bookings, confirmations, reminders, support requests, platform updates, and marketing communications where permitted."
           },
           {
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/legal.svg",
@@ -73,7 +79,13 @@
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/provider.svg",
             "icon_alt": "M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
             "title": "Service Providers",
-            "description": "For hosting, analytics, and customer support."
+            "description": "For hosting, analytics, payment processing, customer support, communication services, and operational support."
+          },
+          {
+            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/provider.svg",
+            "icon_alt": "",
+            "title": "Booking Fulfillment",
+            "description": "Relevant booking details may be shared with artists and service partners solely for fulfilling customer bookings and providing requested services."
           },
           {
             "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/law.svg",
@@ -82,7 +94,7 @@
             "description": "To comply with laws or respond to lawful requests."
           }
         ],
-        "content": "We don't share your data with third parties unless required by law."
+        "content": "Personal information may be shared with service providers, payment partners, artists involved in fulfilling bookings, and government authorities where legally required. We do not sell personal information."
       },
       {
         "id": 4,
@@ -133,8 +145,27 @@
         ],
         "highlight": {
           "title": "How to Exercise Your Right to Be Forgotten",
-          "description": "To request the deletion of your personal data, please log in to the app, go to https://melmua.com/delete-account. Once you submit the request, your account and personal data will be scheduled for deletion within 30 days. If you log back into your account during this time, your deletion request will be canceled."
+          "description": "To request the deletion of your personal data, please log in to the app, go to https://app.melsta.studio/delete-account. Once you submit the request, your account and personal data will be scheduled for deletion within 30 days. If you log back into your account during this time, your deletion request will be canceled."
         }
+      },
+      {
+        "id": 5.5,
+        "title": "Artist Information",
+        "description": "For artists applying to provide services through the platform, we may collect information required for onboarding, verification, compliance, payouts, and service management.",
+        "items": [
+          {
+            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/user.svg",
+            "icon_alt": "",
+            "title": "Verification Information",
+            "description": "Identity documents, address information, profile information, photographs, and other onboarding information."
+          },
+          {
+            "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/privacy-policy/icons/security.svg",
+            "icon_alt": "",
+            "title": "Payout Information",
+            "description": "Bank account and payment information required for processing artist payouts."
+          }
+        ]
       },
       {
         "id": 6,
@@ -167,9 +198,9 @@
         "contactLink": {
           "text": "contact us",
           "url": "/contact",
-          "email": "support@melmua.com"
+          "email": "support@melsta.studio"
         }
       }
     ],
-    "footer": "By using our services, you agree to this Privacy Policy. Thank you for trusting Melsta Inc."
+    "footer": "By using Melsta Studio's services, you agree to this Privacy Policy and consent to the collection and use of information as described herein. Thank you for trusting Melsta Studio."
   } 
