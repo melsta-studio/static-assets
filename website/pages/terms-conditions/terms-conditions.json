@@ -1,12 +1,12 @@
 {
   "title": "Terms and Conditions",
   "lastUpdated": {
-    "date": "January 31, 2025",
+    "date": "June 11, 2026",
     "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/calendar.svg",
     "icon_alt": "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
   },
-  "description": "Terms and conditions for using Melsta's services",
-  "intro": "Welcome to Melsta Studio (\"Melsta\", \"we\", \"our\", or \"us\"). Melsta is a technology-enabled beauty services platform that allows customers to discover, book, and engage verified beauty professionals for makeup and beauty services. These Terms and Conditions govern your access to and use of our website, mobile applications, and related services. By accessing or using our services, you agree to be bound by these Terms.",
+  "description": "Terms and conditions for using Melsta Studio's services",
+  "intro": "Welcome to Melsta Studio (\"Melsta Studio\", \"we\", \"our\", or \"us\"). Melsta Studio is a technology-enabled beauty services platform that allows customers to discover, book, and engage verified beauty professionals for makeup and beauty services. These Terms and Conditions govern your access to and use of our website, mobile applications, and related services. By accessing or using our services, you agree to be bound by these Terms.",
   "sections": [
     {
       "id": 1,
@@ -36,7 +36,7 @@
     {
       "id": 2,
       "title": "Service Description",
-      "description": "Melsta provides a platform for booking professional beauty services and managing beauty service appointments.",
+      "description": "Melsta Studio provides a platform for booking professional beauty services and managing beauty service appointments.",
       "items": [
         {
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/beauty.svg",
@@ -48,13 +48,17 @@
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/community.svg",
           "icon_alt": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z",
           "title": "Verified Artist Network",
-          "description": "Artists available through Melsta undergo onboarding, identity verification, profile review, and quality assessment before activation on the platform."
+          "description": "Artists available through Melsta Studio undergo onboarding, identity verification, profile review, and quality assessment before activation on the platform."
         },
         {
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/security.svg",
           "icon_alt": "M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z",
           "title": "Booking Management & Support",
-          "description": "Melsta facilitates booking management, customer support, payment collection, dispute handling, cancellations, and service coordination between customers and artists."
+          "description": "Melsta Studio facilitates booking management, customer support, payment collection, dispute handling, cancellations, and service coordination between customers and artists."
+        },
+        {
+          "title": "Booking Confirmation",
+          "description": "A booking request becomes confirmed only after artist acceptance, successful payment processing where applicable, and confirmation through the Melsta Studio platform."
         }
       ]
     },
@@ -142,7 +146,7 @@
     {
       "id": 5.5,
       "title": "Artist Standards and Verification",
-      "description": "Melsta maintains quality standards for artists operating through the platform.",
+      "description": "Melsta Studio maintains quality standards for artists operating through the platform.",
       "items": [
         {
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/check.svg",
@@ -154,20 +158,20 @@
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/accuracy.svg",
           "icon_alt": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
           "title": "Quality Standards",
-          "description": "Melsta monitors artist performance, customer feedback, and service quality to maintain platform standards."
+          "description": "Melsta Studio monitors artist performance, customer feedback, and service quality to maintain platform standards."
         },
         {
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/activity.svg",
           "icon_alt": "M13 10V3L4 14h7v7l9-11h-7z",
           "title": "Platform Compliance",
-          "description": "Melsta reserves the right to suspend, restrict, or remove artists who fail to comply with platform policies or quality requirements."
+          "description": "Melsta Studio reserves the right to suspend, restrict, or remove artists who fail to comply with platform policies or quality requirements."
         }
       ]
     },
     {
       "id": 6,
       "title": "Payment Terms",
-      "description": "The following terms apply to bookings and payments processed through Melsta.",
+      "description": "The following terms apply to bookings and payments processed through Melsta Studio.",
       "items": [
         {
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/payment.svg",
@@ -185,7 +189,7 @@
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/refund.svg",
           "icon_alt": "M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15",
           "title": "Booking Payments",
-          "description": "Payments for bookings are collected by Melsta through authorized payment partners. Melsta manages booking-related payment processing, refunds, cancellations, and settlement workflows in accordance with applicable policies."
+          "description": "Payments for bookings are collected by Melsta Studio through authorized payment partners. Melsta Studio manages booking-related payment processing, refunds, cancellations, and settlement workflows in accordance with applicable policies."
         }
       ]
     },
@@ -214,13 +218,13 @@
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/medical.svg",
           "icon_alt": "M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z",
           "title": "Medical Disclaimer",
-          "description": "Beauty services provided through Melsta are cosmetic in nature and are not intended to replace professional medical advice. Customers with allergies, sensitivities, or medical concerns should consult appropriate healthcare professionals before receiving services."
+          "description": "Beauty services provided through Melsta Studio are cosmetic in nature and are not intended to replace professional medical advice. Customers with allergies, sensitivities, or medical concerns should consult appropriate healthcare professionals before receiving services."
         },
         {
           "icon": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/terms/icons/liability.svg",
           "icon_alt": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z",
           "title": "Liability Limitation",
-          "description": "To the maximum extent permitted by law, Melsta's liability arising from a booking or service shall not exceed the amount paid by the customer for the affected booking."
+          "description": "To the maximum extent permitted by law, Melsta Studio's liability arising from a booking or service shall not exceed the amount paid by the customer for the affected booking."
         }
       ]
     },
@@ -251,7 +255,7 @@
       "content": "Any disputes arising from these Terms shall be subject to the exclusive jurisdiction of the courts of Bengaluru, Karnataka, unless otherwise required by applicable law.",
       "highlight": {
         "title": "Dispute Resolution",
-        "description": "We encourage customers to contact Melsta support first to resolve concerns relating to bookings, payments, cancellations, refunds, or services before initiating formal legal proceedings."
+        "description": "We encourage customers to contact Melsta Studio support first to resolve concerns relating to bookings, payments, cancellations, refunds, or services before initiating formal legal proceedings."
       }
     },
     {
@@ -265,5 +269,5 @@
       }
     }
   ],
-  "footer": "By using Melsta's services, you acknowledge that you have read, understood, and agree to these Terms and Conditions. Melsta acts as a customer-facing platform for beauty service bookings and support. Thank you for choosing Melsta Studio."
+  "footer": "By using Melsta Studio's services, you acknowledge that you have read, understood, and agree to these Terms and Conditions. Melsta Studio acts as a customer-facing platform for beauty service bookings and support. Thank you for choosing Melsta Studio."
 } 
