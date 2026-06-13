@@ -1,317 +1,248 @@
-[
-  {
-    "question": "How do I book a makeup artist on Melsta?",
-    "answer": "Browse artists, select your preferred service, choose your date & time, and confirm your booking directly through Melsta.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Popular"
+{
+  "featuredBanner": {
+    "image": "banners/featured-banner.webp",
+    "alt": "Melsta FAQ & Support featured banner"
   },
-  {
-    "question": "Are Melsta artists verified?",
-    "answer": "Yes. All Melsta artists go through profile verification, portfolio review, and skill assessment before onboarding.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Popular"
-  },
-  {
-    "question": "Can I choose my preferred artist?",
-    "answer": "Absolutely. You can explore artist profiles, portfolios, pricing, and select the artist that best matches your style.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Popular"
-  },
-  {
-    "question": "Which makeup brands do Melsta artists use?",
-    "answer": "Melsta artists use professional and trusted beauty brands. Product choices may vary depending on the artist and service selected.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Popular"
-  },
-  {
-    "question": "What is the cancellation and refund policy?",
-    "answer": "You can cancel or reschedule based on Melsta's cancellation policy. Refund eligibility depends on the timing of cancellation.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Popular"
-  },
-  {
-    "question": "How do I book a service on Melsta?",
-    "answer": "Simply browse artists, choose your preferred service, select a date & time, and confirm your booking.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "Can I book same-day appointments?",
-    "answer": "Same-day bookings are available based on artist availability in your location.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "Can I reschedule my booking?",
-    "answer": "Yes, bookings can be rescheduled within the allowed rescheduling window.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "Can I cancel my booking?",
-    "answer": "Yes. Cancellation policies may vary depending on the booking type and timing.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "How will I know my booking is confirmed?",
-    "answer": "You'll receive a confirmation notification once your booking is successfully confirmed.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "Can I book services for multiple people?",
-    "answer": "Yes, group and multiple-person bookings are supported for selected services.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "Can I add services after booking?",
-    "answer": "Yes, additional services can be added based on artist availability.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "How early should I book my appointment?",
-    "answer": "For weekends, weddings, or special occasions, we recommend booking in advance to secure your preferred artist.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/calendar.svg",
-    "iconAlt": "Calendar icon for booking",
-    "category": "Booking"
-  },
-  {
-    "question": "Are Melsta artists verified?",
-    "answer": "Yes. Every artist undergoes profile verification and portfolio evaluation before onboarding.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "Can I choose my preferred artist?",
-    "answer": "Yes, you can browse and book artists based on style, experience, pricing, and availability.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "Can I view the artist's previous work?",
-    "answer": "Yes. Artist portfolios are available on their profiles for you to explore before booking.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "How does Melsta select artists?",
-    "answer": "Artists are shortlisted based on experience, skills, professionalism, and portfolio quality.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "Can I talk to the artist before the appointment?",
-    "answer": "For selected services, consultation options may be available before the booking date.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "What if my artist cancels?",
-    "answer": "Our team will help arrange a suitable replacement artist based on availability.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "Do artists bring their own products and tools?",
-    "answer": "Yes, artists arrive with the required products and professional tools for the booked service.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "Can I book the same artist again?",
-    "answer": "Yes, you can rebook your preferred artist through their profile.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/certificate.svg",
-    "iconAlt": "Certificate icon for artist verification",
-    "category": "Artists"
-  },
-  {
-    "question": "What makeup services are available on Melsta?",
-    "answer": "Melsta offers makeup, hairstyling, saree draping, party looks, bridal services, and more.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Can I show inspiration or reference pictures?",
-    "answer": "Absolutely. Sharing reference images helps artists understand your preferred look better.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Do artists work with all skin tones and skin types?",
-    "answer": "Yes. Melsta artists are experienced in working with different skin tones and skin types.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Which makeup brands are used?",
-    "answer": "Artists use professional-grade and trusted beauty products depending on the service and artist preference.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Are products hygienic and safe?",
-    "answer": "Yes. Artists are expected to follow proper hygiene and sanitation practices for tools and products.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Can I request specific products or brands?",
-    "answer": "You may discuss product preferences directly with the artist before your appointment.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Do you provide hairstyling and saree draping?",
-    "answer": "Yes, hairstyling and draping services are available for selected bookings.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Are lashes included in the service?",
-    "answer": "Lash availability may vary depending on the package or artist selected.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/package.svg",
-    "iconAlt": "Package icon for products",
-    "category": "Makeup & Products"
-  },
-  {
-    "question": "Why do prices vary between artists?",
-    "answer": "Pricing may vary based on the artist's experience, expertise, service type, and package inclusions.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Are there any hidden charges?",
-    "answer": "No. Pricing and applicable charges are shown during the booking process.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Is advance payment required?",
-    "answer": "Yes, bookings do require partial or advance payment to confirm the appointment.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Which payment methods are accepted?",
-    "answer": "Melsta supports secure online payment methods available during checkout.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Are refunds available?",
-    "answer": "Refund eligibility depends on the cancellation timeline and applicable policies.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Is travel included in the pricing?",
-    "answer": "Travel charges may vary depending on the artist's location and service area.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Will I receive a payment confirmation?",
-    "answer": "Yes, payment confirmations are shared once the transaction is successful.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Are there extra charges for early morning bookings?",
-    "answer": "Additional charges may apply for early morning or late-night bookings.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/payment.svg",
-    "iconAlt": "Payment icon for pricing and payments",
-    "category": "Pricing & Payments"
-  },
-  {
-    "question": "Is it safe to book artists through Melsta?",
-    "answer": "Melsta prioritizes customer safety through artist verification and secure booking processes.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  },
-  {
-    "question": "How can I contact customer support?",
-    "answer": "You can reach out to Melsta support through the app or website support section.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  },
-  {
-    "question": "What if I face an issue during the appointment?",
-    "answer": "Please contact Melsta support immediately, and our team will assist you.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  },
-  {
-    "question": "Will my personal information remain private?",
-    "answer": "Yes. Customer information is handled securely and used only for booking-related purposes.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  },
-  {
-    "question": "What happens if the artist is late?",
-    "answer": "Our support team will coordinate with the artist and keep you updated in case of delays.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  },
-  {
-    "question": "Can I report inappropriate behavior or concerns?",
-    "answer": "Yes. Customer concerns can be reported directly to Melsta support for immediate review.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  },
-  {
-    "question": "Does Melsta offer support after booking?",
-    "answer": "Yes. Support is available before, during, and after your appointment.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  },
-  {
-    "question": "How do I raise a complaint or feedback?",
-    "answer": "Feedback and concerns can be submitted through the support section in the app or website.",
-    "iconUrl": "https://raw.githubusercontent.com/melsta-studio/static-assets/refs/heads/main/website/pages/faq/icons/safety.svg",
-    "iconAlt": "Shield icon for support and safety",
-    "category": "Support & Safety"
-  }
-]
+  "categories": [
+    {
+      "slug": "popular",
+      "label": "Popular questions",
+      "logo": "logos/popular.svg",
+      "logoAlt": "Popular questions logo",
+      "banner": "banners/popular.webp",
+      "bannerAlt": "Popular questions banner",
+      "questions": [
+        {
+          "question": "How do I book a makeup artist on Melsta?",
+          "answer": "Browse artists, select your preferred service, choose your date & time, and confirm your booking directly through Melsta."
+        },
+        {
+          "question": "Are Melsta artists verified?",
+          "answer": "Yes. All Melsta artists go through profile verification, portfolio review, and skill assessment before onboarding."
+        },
+        {
+          "question": "Can I choose my preferred artist?",
+          "answer": "Absolutely. You can explore artist profiles, portfolios, pricing, and select the artist that best matches your style."
+        },
+        {
+          "question": "Which makeup brands do Melsta artists use?",
+          "answer": "Melsta artists use professional and trusted beauty brands. Product choices may vary depending on the artist and service selected."
+        },
+        {
+          "question": "What is the cancellation and refund policy?",
+          "answer": "You can cancel or reschedule based on Melsta's cancellation policy. Refund eligibility depends on the timing of cancellation."
+        }
+      ]
+    },
+    {
+      "slug": "booking",
+      "label": "Booking",
+      "logo": "logos/booking.svg",
+      "logoAlt": "Booking logo",
+      "banner": "banners/booking.webp",
+      "bannerAlt": "Booking banner",
+      "questions": [
+        {
+          "question": "How do I book a service on Melsta?",
+          "answer": "Simply browse artists, choose your preferred service, select a date & time, and confirm your booking."
+        },
+        {
+          "question": "Can I book same-day appointments?",
+          "answer": "Same-day bookings are available based on artist availability in your location."
+        },
+        {
+          "question": "Can I reschedule my booking?",
+          "answer": "Yes, bookings can be rescheduled within the allowed rescheduling window."
+        },
+        {
+          "question": "Can I cancel my booking?",
+          "answer": "Yes. Cancellation policies may vary depending on the booking type and timing."
+        },
+        {
+          "question": "How will I know my booking is confirmed?",
+          "answer": "You'll receive a confirmation notification once your booking is successfully confirmed."
+        },
+        {
+          "question": "Can I book services for multiple people?",
+          "answer": "Yes, group and multiple-person bookings are supported for selected services."
+        },
+        {
+          "question": "Can I add services after booking?",
+          "answer": "Yes, additional services can be added based on artist availability."
+        },
+        {
+          "question": "How early should I book my appointment?",
+          "answer": "For weekends, weddings, or special occasions, we recommend booking in advance to secure your preferred artist."
+        }
+      ]
+    },
+    {
+      "slug": "artists",
+      "label": "Artists",
+      "logo": "logos/artists.svg",
+      "logoAlt": "Artists logo",
+      "banner": "banners/artists.webp",
+      "bannerAlt": "Artists banner",
+      "questions": [
+        {
+          "question": "Are Melsta artists verified?",
+          "answer": "Yes. Every artist undergoes profile verification and portfolio evaluation before onboarding."
+        },
+        {
+          "question": "Can I choose my preferred artist?",
+          "answer": "Yes, you can browse and book artists based on style, experience, pricing, and availability."
+        },
+        {
+          "question": "Can I view the artist's previous work?",
+          "answer": "Yes. Artist portfolios are available on their profiles for you to explore before booking."
+        },
+        {
+          "question": "How does Melsta select artists?",
+          "answer": "Artists are shortlisted based on experience, skills, professionalism, and portfolio quality."
+        },
+        {
+          "question": "Can I talk to the artist before the appointment?",
+          "answer": "For selected services, consultation options may be available before the booking date."
+        },
+        {
+          "question": "What if my artist cancels?",
+          "answer": "Our team will help arrange a suitable replacement artist based on availability."
+        },
+        {
+          "question": "Do artists bring their own products and tools?",
+          "answer": "Yes, artists arrive with the required products and professional tools for the booked service."
+        },
+        {
+          "question": "Can I book the same artist again?",
+          "answer": "Yes, you can rebook your preferred artist through their profile."
+        }
+      ]
+    },
+    {
+      "slug": "makeup-products",
+      "label": "Makeup & Products",
+      "logo": "logos/makeup-products.svg",
+      "logoAlt": "Makeup & Products logo",
+      "banner": "banners/makeup-products.webp",
+      "bannerAlt": "Makeup & Products banner",
+      "questions": [
+        {
+          "question": "What makeup services are available on Melsta?",
+          "answer": "Melsta offers makeup, hairstyling, saree draping, party looks, bridal services, and more."
+        },
+        {
+          "question": "Can I show inspiration or reference pictures?",
+          "answer": "Absolutely. Sharing reference images helps artists understand your preferred look better."
+        },
+        {
+          "question": "Do artists work with all skin tones and skin types?",
+          "answer": "Yes. Melsta artists are experienced in working with different skin tones and skin types."
+        },
+        {
+          "question": "Which makeup brands are used?",
+          "answer": "Artists use professional-grade and trusted beauty products depending on the service and artist preference."
+        },
+        {
+          "question": "Are products hygienic and safe?",
+          "answer": "Yes. Artists are expected to follow proper hygiene and sanitation practices for tools and products."
+        },
+        {
+          "question": "Can I request specific products or brands?",
+          "answer": "You may discuss product preferences directly with the artist before your appointment."
+        },
+        {
+          "question": "Do you provide hairstyling and saree draping?",
+          "answer": "Yes, hairstyling and draping services are available for selected bookings."
+        },
+        {
+          "question": "Are lashes included in the service?",
+          "answer": "Lash availability may vary depending on the package or artist selected."
+        }
+      ]
+    },
+    {
+      "slug": "pricing-payments",
+      "label": "Pricing & Payments",
+      "logo": "logos/pricing-payments.svg",
+      "logoAlt": "Pricing & Payments logo",
+      "banner": "banners/pricing-payments.webp",
+      "bannerAlt": "Pricing & Payments banner",
+      "questions": [
+        {
+          "question": "Why do prices vary between artists?",
+          "answer": "Pricing may vary based on the artist's experience, expertise, service type, and package inclusions."
+        },
+        {
+          "question": "Are there any hidden charges?",
+          "answer": "No. Pricing and applicable charges are shown during the booking process."
+        },
+        {
+          "question": "Is advance payment required?",
+          "answer": "Yes, bookings do require partial or advance payment to confirm the appointment."
+        },
+        {
+          "question": "Which payment methods are accepted?",
+          "answer": "Melsta supports secure online payment methods available during checkout."
+        },
+        {
+          "question": "Are refunds available?",
+          "answer": "Refund eligibility depends on the cancellation timeline and applicable policies."
+        },
+        {
+          "question": "Is travel included in the pricing?",
+          "answer": "Travel charges may vary depending on the artist's location and service area."
+        },
+        {
+          "question": "Will I receive a payment confirmation?",
+          "answer": "Yes, payment confirmations are shared once the transaction is successful."
+        },
+        {
+          "question": "Are there extra charges for early morning bookings?",
+          "answer": "Additional charges may apply for early morning or late-night bookings."
+        }
+      ]
+    },
+    {
+      "slug": "support-safety",
+      "label": "Support & Safety",
+      "logo": "logos/support-safety.svg",
+      "logoAlt": "Support & Safety logo",
+      "banner": "banners/support-safety.webp",
+      "bannerAlt": "Support & Safety banner",
+      "questions": [
+        {
+          "question": "Is it safe to book artists through Melsta?",
+          "answer": "Melsta prioritizes customer safety through artist verification and secure booking processes."
+        },
+        {
+          "question": "How can I contact customer support?",
+          "answer": "You can reach out to Melsta support through the app or website support section."
+        },
+        {
+          "question": "What if I face an issue during the appointment?",
+          "answer": "Please contact Melsta support immediately, and our team will assist you."
+        },
+        {
+          "question": "Will my personal information remain private?",
+          "answer": "Yes. Customer information is handled securely and used only for booking-related purposes."
+        },
+        {
+          "question": "What happens if the artist is late?",
+          "answer": "Our support team will coordinate with the artist and keep you updated in case of delays."
+        },
+        {
+          "question": "Can I report inappropriate behavior or concerns?",
+          "answer": "Yes. Customer concerns can be reported directly to Melsta support for immediate review."
+        },
+        {
+          "question": "Does Melsta offer support after booking?",
+          "answer": "Yes. Support is available before, during, and after your appointment."
+        },
+        {
+          "question": "How do I raise a complaint or feedback?",
+          "answer": "Feedback and concerns can be submitted through the support section in the app or website."
+        }
+      ]
+    }
+  ]
+}
