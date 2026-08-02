@@ -89,7 +89,7 @@ These runway trends may look editorial at first glance, but each one can easily 
 
 <div align="center">
 
-![Glazed Skin](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_glazed_skin.jpg)
+![Glazed Skin](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_img1.jpg)
 
 *Healthy, hydrated skin remains the biggest runway trend.*
 
@@ -137,7 +137,7 @@ Fashion houses across Paris and Milan focused on luminous skin that looked natur
 
 <div align="center">
 
-![Watercolor Eyes](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_watercolor.jpg)
+![Watercolor Eyes](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_img2.jpg)
 
 *Soft washes of pastel color replace dramatic smoky eyes.*
 
@@ -177,7 +177,7 @@ Watercolor eyes are surprisingly wearable and instantly brighten the face withou
 
 <div align="center">
 
-![Blush Draping](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_blush_draping.jpg)
+![Blush Draping](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_img3.jpg)
 
 *Blush is no longer limited to the apples of the cheeks.*
 
@@ -215,7 +215,7 @@ For even more definition, pair blush draping with our **[Advanced Contouring Tec
 
 <div align="center">
 
-![Floating Eyeliner](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_floating_eyeliner.jpeg)
+![Floating Eyeliner](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_img4.jpg)
 
 *Graphic liner receives a softer summer update.*
 
@@ -247,7 +247,7 @@ Start with a thin line before experimenting with graphic shapes.
 
 <div align="center">
 
-![Vinyl Lips](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_vinyl_lips.jpeg)
+![Vinyl Lips](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_img5.jpg)
 
 *Gloss makes a major comeback this season.*
 
