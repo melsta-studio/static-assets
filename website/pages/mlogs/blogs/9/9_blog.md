@@ -96,7 +96,7 @@ The routine below is divided minute by minute for maximum efficiency.
 
 <div align="center">
 
-![Fresh Natural Base](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_skin_base.jpg)
+![Fresh Natural Base](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img1.jpg)
 
 *Creating a lightweight natural base.*
 
@@ -130,7 +130,7 @@ Warm concealer using your ring finger before blending for a seamless finish.
 
 <div align="center">
 
-![Cheeks and Lips](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_cheeks_lips.jpg)
+![Cheeks and Lips](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img2.jpg)
 
 *Using one product for both cheeks and lips creates harmony.*
 
@@ -151,86 +151,11 @@ This technique reduces the number of products while making the overall makeup lo
 
 ---
 
----
-
-## Expert Insights {#expert-insights}
-
-> **Expert Tips from Melmua Professionals**
-
-A fast routine doesn't mean compromising on results. The key is selecting products that multitask and techniques that maximize impact with minimal effort.
-
-> "Choose products that can do more than one job. A cream tint for cheeks and lips instantly cuts your routine in half."
-
-> "Your fingers are your best makeup brushes during busy mornings. The warmth helps cream products melt beautifully into the skin."
-
-> "Perfect skin doesn't require heavy foundation. Even skin tone only where needed, then let your natural complexion show."
-
-> "Consistency beats complexity. A simple routine you actually follow every day is better than an elaborate routine you rarely finish."
-
----
-
-## The Complete 5-Minute Routine {#routine-breakdown}
-
-### Minute 1 — Fresh, Even Skin
-
-<div align="center">
-
-![Skin Base](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_skin_base.jpg)
-
-</div>
-
-Start with a lightweight tinted moisturizer or skin tint instead of full-coverage foundation.
-
-Recommended products:
-
-- Maybelline Fit Me Fresh Tint
-- L'Oréal True Match Nude Serum
-- Smashbox Halo Tinted Moisturizer
-
-Apply using clean fingers for the quickest blend.
-
-Follow with concealer only where necessary:
-
-- Under eyes
-- Around the nose
-- Blemishes
-- Pigmentation
-
-This targeted approach saves time while keeping the finish natural.
-
----
-
-### Minute 2 — Add Natural Colour
-
-<div align="center">
-
-![Cheeks and Lips](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_cheeks_lips.jpg)
-
-</div>
-
-Cream blushes are perfect for quick makeup because they blend easily and can double as lip colour.
-
-Apply onto:
-
-- Apples of cheeks
-- Blend upward
-- Tap remaining product onto lips
-
-Great multitasking products include:
-
-- Rare Beauty Soft Pinch Liquid Blush
-- Nudestix Nudies
-- e.l.f. Monochromatic Multi Stick
-
-Using one colour across the face creates a balanced, polished appearance.
-
----
-
 ### Minute 3 — Define the Brows
 
 <div align="center">
 
-![Brows](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_brow_Definition.jpg)
+![Brows](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img3.jpg)
 
 </div>
 
@@ -256,7 +181,7 @@ Natural-looking brows instantly make the entire face appear more awake.
 
 <div align="center">
 
-![Eyes](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_eye_enhancement.jpg)
+![Eyes](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img4.jpg)
 
 </div>
 
@@ -282,7 +207,7 @@ Focusing only on the upper lashes keeps the routine fast while opening the eyes 
 
 <div align="center">
 
-![Glow](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_glow_and_set.jpg)
+![Glow](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img5.jpg)
 
 </div>
 
@@ -306,78 +231,6 @@ Recommended products:
 - Charlotte Tilbury Airbrush Setting Spray
 
 A fresh glow always photographs better than heavy matte makeup.
-
----
-#### Minute 4 — Define the Eyes
-
-<div class="info-card">
-
-### Quick Eye Enhancement
-
-Strong eye makeup isn't necessary for an everyday look. A little definition instantly makes you appear more awake.
-
-**Use:**
-- Curl lashes (optional)
-- Apply one coat of mascara
-- Add a tiny amount of blush or bronzer on eyelids if desired
-
-**Recommended Products**
-
-| Product | Purpose |
-|---------|----------|
-| L'Oréal Telescopic Lift Mascara | Length & definition |
-| Maybelline Sky High Mascara | Everyday volume |
-| ELF Lash Curler | Quick eye lift |
-
-**Time Required:** 1 minute
-
-</div>
-
-<div align="center">
-
-![Eye Enhancement](images/9_eye_enhancement.jpg)
-
-*Natural eye definition in under one minute.*
-
-</div>
-
----
-
-#### Minute 5 — Glow & Finish
-
-<div class="success-card">
-
-### Complete the Look
-
-Finish with a healthy glow rather than heavy powder.
-
-**Apply Glow To**
-- High points of cheeks
-- Bridge of nose
-- Brow bone
-- Inner corner of eyes
-
-Finish with a light mist of setting spray if required.
-
-**Recommended Products**
-
-| Product | Purpose |
-|---------|----------|
-| ELF Halo Glow Liquid Filter | Natural glow |
-| Saie Glowy Super Gel | Fresh radiant finish |
-| MAC Fix+ | Refresh & set makeup |
-
-**Time Required:** 1 minute
-
-</div>
-
-<div align="center">
-
-![Glow and Finish](images/9_glow_and_set.jpg)
-
-*The final step that completes the entire routine.*
-
-</div>
 
 ---
 
