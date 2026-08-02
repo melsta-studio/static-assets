@@ -141,18 +141,6 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 ## Estée Lauder Double Wear Stay-in-Place Foundation
 
-<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
-
-<div align="center">
-
-![Estée Lauder Foundation](...)
-
-*Estée Lauder Double Wear remains one of the most trusted luxury foundations among professional makeup artists.*
-
-</div>
-
-</div>
-
 **Coverage:** Full, Buildable
 
 **Finish:** Soft Matte
